@@ -1,0 +1,15 @@
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Application\bin\Debug\net8.0\User.Resource.Application.deps.json
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Application\bin\Debug\net8.0\User.Resource.Application.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Application\bin\Debug\net8.0\User.Resource.Application.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Application\bin\Debug\net8.0\User.Resource.Domain.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Application\bin\Debug\net8.0\User.Resource.Domain.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Application\obj\Debug\net8.0\User.Resource.Application.csproj.AssemblyReference.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Application\obj\Debug\net8.0\User.Resource.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Application\obj\Debug\net8.0\User.Resource.Application.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Application\obj\Debug\net8.0\User.Resource.Application.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Application\obj\Debug\net8.0\User.Resource.Application.csproj.CoreCompileInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Application\obj\Debug\net8.0\User.Res.BDF32A8D.Up2Date
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Application\obj\Debug\net8.0\User.Resource.Application.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Application\obj\Debug\net8.0\refint\User.Resource.Application.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Application\obj\Debug\net8.0\User.Resource.Application.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Application\obj\Debug\net8.0\ref\User.Resource.Application.dll

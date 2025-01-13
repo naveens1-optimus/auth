@@ -1,0 +1,15 @@
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Application\bin\Debug\net8.0\User.Authentication.Application.deps.json
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Application\bin\Debug\net8.0\User.Authentication.Application.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Application\bin\Debug\net8.0\User.Authentication.Application.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Application\bin\Debug\net8.0\User.Authentication.Domain.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Application\bin\Debug\net8.0\User.Authentication.Domain.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Application\obj\Debug\net8.0\User.Authentication.Application.csproj.AssemblyReference.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Application\obj\Debug\net8.0\User.Authentication.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Application\obj\Debug\net8.0\User.Authentication.Application.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Application\obj\Debug\net8.0\User.Authentication.Application.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Application\obj\Debug\net8.0\User.Authentication.Application.csproj.CoreCompileInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Application\obj\Debug\net8.0\User.Aut.410BA4B6.Up2Date
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Application\obj\Debug\net8.0\User.Authentication.Application.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Application\obj\Debug\net8.0\refint\User.Authentication.Application.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Application\obj\Debug\net8.0\User.Authentication.Application.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Application\obj\Debug\net8.0\ref\User.Authentication.Application.dll

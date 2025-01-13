@@ -1,0 +1,11 @@
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Domain\bin\Debug\net8.0\User.Authentication.Domain.deps.json
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Domain\bin\Debug\net8.0\User.Authentication.Domain.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Domain\bin\Debug\net8.0\User.Authentication.Domain.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Domain\obj\Debug\net8.0\User.Authentication.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Domain\obj\Debug\net8.0\User.Authentication.Domain.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Domain\obj\Debug\net8.0\User.Authentication.Domain.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Domain\obj\Debug\net8.0\User.Authentication.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Domain\obj\Debug\net8.0\User.Authentication.Domain.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Domain\obj\Debug\net8.0\refint\User.Authentication.Domain.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Domain\obj\Debug\net8.0\User.Authentication.Domain.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authentication.Domain\obj\Debug\net8.0\ref\User.Authentication.Domain.dll

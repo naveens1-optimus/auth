@@ -1,0 +1,14 @@
+C:\Users\sys.admin\source\repos\UserAuthentication\cacellationtoken\bin\Debug\net8.0\cacellationtoken.exe
+C:\Users\sys.admin\source\repos\UserAuthentication\cacellationtoken\bin\Debug\net8.0\cacellationtoken.deps.json
+C:\Users\sys.admin\source\repos\UserAuthentication\cacellationtoken\bin\Debug\net8.0\cacellationtoken.runtimeconfig.json
+C:\Users\sys.admin\source\repos\UserAuthentication\cacellationtoken\bin\Debug\net8.0\cacellationtoken.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\cacellationtoken\bin\Debug\net8.0\cacellationtoken.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\cacellationtoken\obj\Debug\net8.0\cacellationtoken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\UserAuthentication\cacellationtoken\obj\Debug\net8.0\cacellationtoken.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\cacellationtoken\obj\Debug\net8.0\cacellationtoken.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\UserAuthentication\cacellationtoken\obj\Debug\net8.0\cacellationtoken.csproj.CoreCompileInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\cacellationtoken\obj\Debug\net8.0\cacellationtoken.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\cacellationtoken\obj\Debug\net8.0\refint\cacellationtoken.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\cacellationtoken\obj\Debug\net8.0\cacellationtoken.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\cacellationtoken\obj\Debug\net8.0\cacellationtoken.genruntimeconfig.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\cacellationtoken\obj\Debug\net8.0\ref\cacellationtoken.dll

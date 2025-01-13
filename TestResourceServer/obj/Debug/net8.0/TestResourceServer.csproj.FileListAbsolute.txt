@@ -1,0 +1,6 @@
+C:\Users\sys.admin\source\repos\UserAuthentication\TestResourceServer\bin\Debug\net8.0\CoverletSourceRootsMapping_TestResourceServer
+C:\Users\sys.admin\source\repos\UserAuthentication\TestResourceServer\obj\Debug\net8.0\TestResourceServer.csproj.AssemblyReference.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\TestResourceServer\obj\Debug\net8.0\TestResourceServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\UserAuthentication\TestResourceServer\obj\Debug\net8.0\TestResourceServer.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\TestResourceServer\obj\Debug\net8.0\TestResourceServer.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\UserAuthentication\TestResourceServer\obj\Debug\net8.0\TestResourceServer.csproj.CoreCompileInputs.cache

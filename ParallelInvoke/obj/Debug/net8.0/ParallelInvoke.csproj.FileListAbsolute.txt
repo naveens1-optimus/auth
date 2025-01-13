@@ -1,0 +1,14 @@
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelInvoke\bin\Debug\net8.0\ParallelInvoke.exe
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelInvoke\bin\Debug\net8.0\ParallelInvoke.deps.json
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelInvoke\bin\Debug\net8.0\ParallelInvoke.runtimeconfig.json
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelInvoke\bin\Debug\net8.0\ParallelInvoke.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelInvoke\bin\Debug\net8.0\ParallelInvoke.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelInvoke\obj\Debug\net8.0\ParallelInvoke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelInvoke\obj\Debug\net8.0\ParallelInvoke.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelInvoke\obj\Debug\net8.0\ParallelInvoke.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelInvoke\obj\Debug\net8.0\ParallelInvoke.csproj.CoreCompileInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelInvoke\obj\Debug\net8.0\ParallelInvoke.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelInvoke\obj\Debug\net8.0\refint\ParallelInvoke.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelInvoke\obj\Debug\net8.0\ParallelInvoke.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelInvoke\obj\Debug\net8.0\ParallelInvoke.genruntimeconfig.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelInvoke\obj\Debug\net8.0\ref\ParallelInvoke.dll

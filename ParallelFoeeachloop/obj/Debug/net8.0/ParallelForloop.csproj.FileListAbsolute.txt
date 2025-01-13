@@ -1,0 +1,14 @@
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelFoeeachloop\bin\Debug\net8.0\ParallelForloop.exe
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelFoeeachloop\bin\Debug\net8.0\ParallelForloop.deps.json
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelFoeeachloop\bin\Debug\net8.0\ParallelForloop.runtimeconfig.json
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelFoeeachloop\bin\Debug\net8.0\ParallelForloop.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelFoeeachloop\bin\Debug\net8.0\ParallelForloop.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelFoeeachloop\obj\Debug\net8.0\ParallelForloop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelFoeeachloop\obj\Debug\net8.0\ParallelForloop.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelFoeeachloop\obj\Debug\net8.0\ParallelForloop.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelFoeeachloop\obj\Debug\net8.0\ParallelForloop.csproj.CoreCompileInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelFoeeachloop\obj\Debug\net8.0\ParallelForloop.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelFoeeachloop\obj\Debug\net8.0\refint\ParallelForloop.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelFoeeachloop\obj\Debug\net8.0\ParallelForloop.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelFoeeachloop\obj\Debug\net8.0\ParallelForloop.genruntimeconfig.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\ParallelFoeeachloop\obj\Debug\net8.0\ref\ParallelForloop.dll

@@ -1,0 +1,17 @@
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\bin\Debug\net8.0\User.Resource.Persistance.deps.json
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\bin\Debug\net8.0\User.Resource.Persistance.runtimeconfig.json
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\bin\Debug\net8.0\User.Resource.Persistance.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\bin\Debug\net8.0\User.Resource.Persistance.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\bin\Debug\net8.0\User.Resource.Domain.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\bin\Debug\net8.0\User.Resource.Domain.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\obj\Debug\net8.0\User.Resource.Persistance.csproj.AssemblyReference.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\obj\Debug\net8.0\User.Resource.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\obj\Debug\net8.0\User.Resource.Persistance.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\obj\Debug\net8.0\User.Resource.Persistance.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\obj\Debug\net8.0\User.Resource.Persistance.csproj.CoreCompileInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\obj\Debug\net8.0\User.Res.0392B596.Up2Date
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\obj\Debug\net8.0\User.Resource.Persistance.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\obj\Debug\net8.0\refint\User.Resource.Persistance.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\obj\Debug\net8.0\User.Resource.Persistance.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\obj\Debug\net8.0\User.Resource.Persistance.genruntimeconfig.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Resource.Persistance\obj\Debug\net8.0\ref\User.Resource.Persistance.dll

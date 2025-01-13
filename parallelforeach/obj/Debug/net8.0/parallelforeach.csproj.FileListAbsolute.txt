@@ -1,0 +1,14 @@
+C:\Users\sys.admin\source\repos\UserAuthentication\parallelforeach\bin\Debug\net8.0\parallelforeach.exe
+C:\Users\sys.admin\source\repos\UserAuthentication\parallelforeach\bin\Debug\net8.0\parallelforeach.deps.json
+C:\Users\sys.admin\source\repos\UserAuthentication\parallelforeach\bin\Debug\net8.0\parallelforeach.runtimeconfig.json
+C:\Users\sys.admin\source\repos\UserAuthentication\parallelforeach\bin\Debug\net8.0\parallelforeach.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\parallelforeach\bin\Debug\net8.0\parallelforeach.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\parallelforeach\obj\Debug\net8.0\parallelforeach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\UserAuthentication\parallelforeach\obj\Debug\net8.0\parallelforeach.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\parallelforeach\obj\Debug\net8.0\parallelforeach.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\UserAuthentication\parallelforeach\obj\Debug\net8.0\parallelforeach.csproj.CoreCompileInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\parallelforeach\obj\Debug\net8.0\parallelforeach.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\parallelforeach\obj\Debug\net8.0\refint\parallelforeach.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\parallelforeach\obj\Debug\net8.0\parallelforeach.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\parallelforeach\obj\Debug\net8.0\parallelforeach.genruntimeconfig.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\parallelforeach\obj\Debug\net8.0\ref\parallelforeach.dll

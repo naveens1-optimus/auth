@@ -1,0 +1,14 @@
+C:\Users\sys.admin\source\repos\UserAuthentication\TPLImplementation\bin\Debug\net8.0\TPLImplementation.exe
+C:\Users\sys.admin\source\repos\UserAuthentication\TPLImplementation\bin\Debug\net8.0\TPLImplementation.deps.json
+C:\Users\sys.admin\source\repos\UserAuthentication\TPLImplementation\bin\Debug\net8.0\TPLImplementation.runtimeconfig.json
+C:\Users\sys.admin\source\repos\UserAuthentication\TPLImplementation\bin\Debug\net8.0\TPLImplementation.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\TPLImplementation\bin\Debug\net8.0\TPLImplementation.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\TPLImplementation\obj\Debug\net8.0\TPLImplementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\UserAuthentication\TPLImplementation\obj\Debug\net8.0\TPLImplementation.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\TPLImplementation\obj\Debug\net8.0\TPLImplementation.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\UserAuthentication\TPLImplementation\obj\Debug\net8.0\TPLImplementation.csproj.CoreCompileInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\TPLImplementation\obj\Debug\net8.0\TPLImplementation.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\TPLImplementation\obj\Debug\net8.0\refint\TPLImplementation.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\TPLImplementation\obj\Debug\net8.0\TPLImplementation.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\TPLImplementation\obj\Debug\net8.0\TPLImplementation.genruntimeconfig.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\TPLImplementation\obj\Debug\net8.0\ref\TPLImplementation.dll

@@ -1,0 +1,17 @@
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\bin\Debug\net8.0\User.Authentication.Infrastructure.deps.json
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\bin\Debug\net8.0\User.Authentication.Infrastructure.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\bin\Debug\net8.0\User.Authentication.Infrastructure.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\bin\Debug\net8.0\User.Authentication.Application.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\bin\Debug\net8.0\User.Authentication.Domain.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\bin\Debug\net8.0\User.Authentication.Application.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\bin\Debug\net8.0\User.Authentication.Domain.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\obj\Debug\net8.0\User.Authentication.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\obj\Debug\net8.0\User.Authentication.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\obj\Debug\net8.0\User.Authentication.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\obj\Debug\net8.0\User.Authentication.Infrastructure.AssemblyInfo.cs
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\obj\Debug\net8.0\User.Authentication.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\obj\Debug\net8.0\User.Aut.97403FBE.Up2Date
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\obj\Debug\net8.0\User.Authentication.Infrastructure.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\obj\Debug\net8.0\refint\User.Authentication.Infrastructure.dll
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\obj\Debug\net8.0\User.Authentication.Infrastructure.pdb
+C:\Users\sys.admin\source\repos\UserAuthentication\User.Authenticaiton.Infrastructure\obj\Debug\net8.0\ref\User.Authentication.Infrastructure.dll
